@@ -8,6 +8,7 @@ The library includes following trees:
 
 - KD-tree
 - R-tree
+- Ball-tree
 - OCTrees
 - Quadtree
 - Greene-tree
@@ -15,3 +16,6 @@ The library includes following trees:
 - X-tree
 - Cover tree
 
+# 参考
+
+http://blog.sciencenet.cn/blog-1345027-792094.html
