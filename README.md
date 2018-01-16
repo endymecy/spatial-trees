@@ -9,8 +9,8 @@ The library includes following trees:
 - KD-tree
 - R-tree
 - Ball-tree
-- OCTrees
-- Quadtree
+- OCTree
+- Quad-tree
 - Greene-tree
 - R*-tree
 - X-tree

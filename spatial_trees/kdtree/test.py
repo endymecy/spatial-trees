@@ -5,7 +5,7 @@ import unittest
 import collections
 from itertools import islice
 
-from kdtree import kd_tree
+from spatial_trees.kdtree import kd_tree
 
 
 class RemoveTest(unittest.TestCase):

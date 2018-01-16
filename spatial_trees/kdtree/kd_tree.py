@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from collections import deque
-from kdtree.kd_node import KDNode
+from .kd_node import KDNode
 
 
 def create(point_list=None, dimensions=None, axis=0, sel_axis=None):
